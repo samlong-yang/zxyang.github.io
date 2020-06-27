@@ -11,8 +11,8 @@ github_repo: "https://github.com/zxyang521/zxyang521.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: “My Conquest Is the Sea of Stars!”
-sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: “My conquest is the sea of stars!”
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
