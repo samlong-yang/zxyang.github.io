@@ -15,7 +15,6 @@ sidebar-about-description: “My Conquest Is the Sea of Stars!”
 sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
-
 # SNS settings
 RSS: false
 # weibo_username:     zxyang
@@ -97,10 +96,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Pytorch",
+        href: "https://pytorch.org/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "github",
+        href: "https://github.com/"
     }
 ]
